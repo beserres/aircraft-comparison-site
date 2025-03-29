@@ -1,0 +1,4 @@
+/*
+  X-Frame-Options: ALLOW-FROM https://editor.wix.com
+  Content-Security-Policy: frame-ancestors 'self' https://editor.wix.com https://*.wixsite.com
+  Access-Control-Allow-Origin: *
